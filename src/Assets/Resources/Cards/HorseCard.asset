@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d06593f7af9cad64f9f160a599c01a39, type: 3}
+  m_Name: HorseCard
+  m_EditorClassIdentifier: 
+  upArrow: 0
+  rightArrow: 0
+  bottomArrow: 0
+  leftArrow: 1
+  blueImage: {fileID: -609006379838127258, guid: 1ac56f4966bf12442a2f4011ace55b05,
+    type: 3}
+  redImage: {fileID: -8989170566724070947, guid: ec5fac46bb193b549996369cbab83b85,
+    type: 3}
